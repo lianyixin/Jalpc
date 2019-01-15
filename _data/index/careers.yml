@@ -7,7 +7,7 @@
     detail: Studying machine learning, deep learning, natural language processing, reinforcement learning... The most state-of-the-art technology.
     i18n: company_a_desc
   date:
-    detail: Sep. 2018
+    detail: Sep. 2018, New York
     i18n: company_a_date
   job:
     detail: Data Science Master
@@ -21,7 +21,7 @@
     detail: I worked at Tencent Youtu AI Lab. We were doing fantastic face recognition application!
     i18n: company_b_desc
   date:
-    detail: Dec. 2017
+    detail: Dec. 2017, Shanghai
     i18n: company_b_date
   job:
     detail: Software Development Intern
@@ -35,7 +35,7 @@
     detail: I was helping the dreamers in TMT (Technology, Media, Telecommunications) field start up their own business.
     i18n: company_b_desc
   date:
-    detail: Apr. 2017
+    detail: Apr. 2017, Shanghai
     i18n: company_b_date
   job:
     detail: Investment Analyst
@@ -49,7 +49,7 @@
     detail: As a computational fluid dynamics specialist, I designed the cool ship hull in this famous port and garden city.
     i18n: company_b_desc
   date:
-    detail: Oct. 2016
+    detail: Oct. 2016, Singapore
     i18n: company_b_date
   job:
     detail: Engineer
@@ -63,7 +63,7 @@
     detail: I began my valuable academic journey from this top university in China, making efforts towards both ocean engineering and computer science degrees.
     i18n: company_b_desc
   date:
-    detail: Sep. 2012
+    detail: Sep. 2012, Shanghai
     i18n: company_b_date
   job:
     detail: Bachelor
