@@ -4,13 +4,13 @@
     detail: Columbia University
     i18n: company_a
   desc:
-    detail: I majored in Data Science, studying machine learning, deep learning, natural language processing, reinforcement learning...
+    detail: Studying machine learning, deep learning, natural language processing, reinforcement learning... The most state-of-the-art technology.
     i18n: company_a_desc
   date:
     detail: Sep. 2018
     i18n: company_a_date
   job:
-    detail: Master
+    detail: Data Science Master
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -24,6 +24,48 @@
     detail: Dec. 2017
     i18n: company_b_date
   job:
-    detail: Algorithm and Software Development Intern
+    detail: Software Development Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Chenhui Venture Capital
+    i18n: company_b
+  desc:
+    detail: I was helping the dreamers in TMT (Technology, Media, Telecommunications) field start up their own business.
+    i18n: company_b_desc
+  date:
+    detail: Apr. 2017
+    i18n: company_b_date
+  job:
+    detail: Investment Analyst
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Singapore Technologies Engineering
+    i18n: company_b
+  desc:
+    detail: As a computational fluid dynamics specialist, I designed the cool ship hull in this famous port and garden city.
+    i18n: company_b_desc
+  date:
+    detail: Oct. 2016
+    i18n: company_b_date
+  job:
+    detail: Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Shanghai Jiao Tong University
+    i18n: company_b
+  desc:
+    detail: I began my valuable academic journey from this top university in China.
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2012
+    i18n: company_b_date
+  job:
+    detail: Bachelor
     i18n: company_b_job
   icon: fa-plus-square
