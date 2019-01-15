@@ -1,12 +1,18 @@
 # links section data
+- last_name: Data Science Institute
+  first_name: Columbia University
+  desc: 
+  website: https://datascience.columbia.edu/
+  email: datascience@columbia.edu
+
 - last_name: Me
   first_name:
-  desc: Contact Link
+  desc: 
   website: https://www.linkedin.com/in/yixinlian9451/
   email: lianyx0501@foxmail.com
   
-- last_name: Data Science Institute
-  first_name: Columbia University
-  desc: Website
-  website: https://datascience.columbia.edu/
-  email: datascience@columbia.edu
+- last_name: Shanghai Jiao Tong University
+  first_name:
+  desc: 
+  website: http://en.sjtu.edu.cn/
+  email: isc.d@sjtu.edu.cn
