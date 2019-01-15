@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Columbia University
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I majored in Data Science, studying machine learning, deep learning, natural language processing, reinforcement learning...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sep. 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Master
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Tencent
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at Tencent Youtu AI Lab. We were doing fantastic face recognition application!
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Dec. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Algorithm and Software Development Intern
     i18n: company_b_job
   icon: fa-plus-square
