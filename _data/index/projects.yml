@@ -1,22 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Deep Reinforcement Learning
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+  gh_user: lianyixin
+  repo: ReinforcementLearning-AutoNavigation
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Indoor target-driven navigation using DRL. I mainly implemented modified A3C and Asynchronous DQN algorithm. 
 
-- name: Python
+- name: Machine Learning and Recommender System
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: lianyixin
+  repo: Amazon-Product-Classifier-and-Recommendation-UCSD-Dataset
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Text classifiers using classic ml algorithms and a collaborative filtering recommender system.
 
-- name: Google
+- name: Bayesian Machine Learning
+  i18n: cpython
+  gh_user: lianyixin
+  repo: Bayesian-Machine-Learning-Algorithm-for-Recommendation-Problem
+  img: /static/assets/img/landing/python.png
+  desc: Applied bayesian machine learning algorithms to build a simple recommender from scratch. Expectation–Maximization algorithm was used. 
+
+- name: Data Exploration and Visualization
   i18n: google
-  url: https://google.com
+  url: https://visualliance.shinyapps.io/FinalProject/
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: This is a visualizaiton project for amazon electronic product analysis.
