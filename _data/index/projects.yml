@@ -5,7 +5,7 @@
   i18n: jalpc
   gh_user: lianyixin
   repo: ReinforcementLearning-AutoNavigation
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/Tensorflow.png
   desc: Indoor target-driven navigation using DRL. I mainly implemented modified A3C and Asynchronous DQN algorithm. 
 
 - name: Machine Learning and Recommender System
@@ -25,5 +25,5 @@
 - name: Data Exploration and Visualization
   i18n: google
   url: https://visualliance.shinyapps.io/FinalProject/
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/R.png
   desc: This is a visualizaiton project for amazon electronic product analysis.
