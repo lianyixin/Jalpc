@@ -31,6 +31,7 @@ As for the evaluation metrics, it's important to understand the difference betwe
 
 ## Recommendation System
 A really good slide for recommendation system - Tensorrec:
+
 <https://www.slideshare.net/JamesKirk58/boston-ml-architecting-recommender-systems>
 
 Ans here is the sourde code of Tensorrec:
