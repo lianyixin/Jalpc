@@ -4,7 +4,7 @@ title:  "A wonderful day of my life"
 date:   2019-01-16
 desc: "A wonderful day"
 keywords: "wonderful,life"
-categories: [LIFE]
+categories: [Life]
 tags: [wonderful,life]
 icon: icon-html
 ---
